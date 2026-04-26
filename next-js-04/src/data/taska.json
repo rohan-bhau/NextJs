@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "title": "Finish Next.js project setup",
+      "description": "Initialize project, install dependencies, and configure folder structure",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2026-04-28",
+      "createdAt": "2026-04-25T10:00:00Z",
+      "updatedAt": "2026-04-26T08:30:00Z",
+      "assignedTo": "Rohan",
+      "tags": ["development", "nextjs"],
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Build product listing page",
+      "description": "Fetch products from API and display in grid layout",
+      "status": "pending",
+      "priority": "medium",
+      "dueDate": "2026-04-30",
+      "createdAt": "2026-04-25T12:00:00Z",
+      "updatedAt": "2026-04-25T12:00:00Z",
+      "assignedTo": "Rohan",
+      "tags": ["frontend", "ui"],
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Implement authentication",
+      "description": "Add login and signup functionality with validation",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-05-02",
+      "createdAt": "2026-04-24T09:00:00Z",
+      "updatedAt": "2026-04-24T09:00:00Z",
+      "assignedTo": "Rohan",
+      "tags": ["auth", "backend"],
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Fix navbar responsive issues",
+      "description": "Ensure navbar works properly on mobile devices",
+      "status": "completed",
+      "priority": "low",
+      "dueDate": "2026-04-26",
+      "createdAt": "2026-04-23T15:00:00Z",
+      "updatedAt": "2026-04-25T18:00:00Z",
+      "assignedTo": "Rohan",
+      "tags": ["bug", "ui"],
+      "completed": true
+    },
+    {
+      "id": 5,
+      "title": "Create API routes",
+      "description": "Set up Next.js route handlers for products and tasks",
+      "status": "in-progress",
+      "priority": "high",
+      "dueDate": "2026-04-29",
+      "createdAt": "2026-04-25T14:00:00Z",
+      "updatedAt": "2026-04-26T09:00:00Z",
+      "assignedTo": "Rohan",
+      "tags": ["api", "backend"],
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Add loading skeleton UI",
+      "description": "Improve UX by adding skeleton loaders",
+      "status": "pending",
+      "priority": "medium",
+      "dueDate": "2026-05-01",
+      "createdAt": "2026-04-25T16:00:00Z",
+      "updatedAt": "2026-04-25T16:00:00Z",
+      "assignedTo": "Rohan",
+      "tags": ["ux", "design"],
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Optimize images",
+      "description": "Use Next.js Image component for better performance",
+      "status": "pending",
+      "priority": "low",
+      "dueDate": "2026-05-03",
+      "createdAt": "2026-04-26T07:00:00Z",
+      "updatedAt": "2026-04-26T07:00:00Z",
+      "assignedTo": "Rohan",
+      "tags": ["performance"],
+      "completed": false
+    },
+    {
+      "id": 8,
+      "title": "Deploy project",
+      "description": "Deploy the application to production on Vercel",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-05-05",
+      "createdAt": "2026-04-26T10:00:00Z",
+      "updatedAt": "2026-04-26T10:00:00Z",
+      "assignedTo": "Rohan",
+      "tags": ["deployment"],
+      "completed": false
+    }
+  
+  ]
